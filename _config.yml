@@ -1,4 +1,3 @@
-layout_spectrum: 0.9170444149058312
 typography_spectrum: 0.35958483815193176
 color:
   brandStrength: 0.36004934017546475
@@ -11,4 +10,6 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+layout_spectrum: 0.9170444149058312
 name: ' N\Xnoise'
+title: ' N\Xnoise'
